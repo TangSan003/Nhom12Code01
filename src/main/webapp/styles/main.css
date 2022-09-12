@@ -1,0 +1,33 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 12, 2022, 3:01:16 PM
+    Author     : bao
+*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1{
+    color: teal;
+}
+label{
+    float: left;
+    width: 6em;
+    margin-bottom: 0.5em;
+}
+input[type="text"],input[type="email"]{
+    width: 15em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5 em;
+}
+br{
+    clear: both;
+}
+#submit{
+    margin-left: 0.5em;
+}
